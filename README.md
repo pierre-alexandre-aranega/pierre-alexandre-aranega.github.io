@@ -42,14 +42,14 @@ Or install it yourself as:
 The "texture" key in _config.yml is used to customize the theme data.
 ```yaml
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Pierre-Alexandre Aranega
+  tagline: HEC Paris / ENSAE Paris
   date_format: "%b %-d, %Y"
 
   social_links:
     twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman # format: locale/username
+    github:  pierre-alexandre-aranega
+    linkedIn: in/pierre-alexandre-aranega # format: locale/username
 ```
 
 **Styling**
