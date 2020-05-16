@@ -2,7 +2,7 @@
 layout: post
 title:  "Projets"
 description: Post qui détaille les projets réalisés au cours de ma scolarité.
-date:   2019-05-23 21:03:36 +0530
+date:   2020-05-16 00:00:00 +0100
 categories: Python R Economie
 ---
 * Statistique appliquée - L'efficacité des politiques publiques et le sentiment - à venir
