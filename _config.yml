@@ -13,7 +13,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Pierre-Alexandre Aranega
-  tagline: HEC Paris / ENSAE Paris
+  # tagline: HEC Paris / ENSAE Paris
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -22,7 +22,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: 
-    github:  pierre-alexandre-aranega
+    # github:  pierre-alexandre-aranega
     linkedIn: in/pierre-alexandre-aranega
     rss: rss
  
