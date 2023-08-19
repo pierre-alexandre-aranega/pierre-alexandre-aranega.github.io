@@ -1,7 +1,7 @@
 title: Pierre-Alexandre Aranega
 author: Pierre-Alexandre Aranega
-email: pierre-alexandre.aranega@ensae.fr
-description: Pierre-Alexandre Aranega - Étudiant HEC Paris / ENSAE Paris
+#email: pierre-alexandre.aranega@ensae.fr
+description: Pierre-Alexandre Aranega #- Étudiant HEC Paris / ENSAE Paris
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: 
 
